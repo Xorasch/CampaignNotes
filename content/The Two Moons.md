@@ -7,4 +7,8 @@ tags:
  
 There are two moons in Exandria.
 
-I changed this and synced with the bat file
+## Ruidus
+Ruidus is the red moon
+
+## Catha
+Catha is the white moon
