@@ -1,6 +1,7 @@
 ---
 title: Call of the Netherdeep Campaign Wiki
 ---
+![[CR_CotN.png]]
 <br>
 
 Hier könnt ihr Infos über Orte, Charaktere, die Welt usw. nachschauen.
