@@ -4,5 +4,8 @@ draft: false
 tags:
   - Rivale
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
+
+
+![[images/Ayo_Jabe.webp | 150]]
+
+Ayo ist die Anführerin der Rivalen Gruppe.
