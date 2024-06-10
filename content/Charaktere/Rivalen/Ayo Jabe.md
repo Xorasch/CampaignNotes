@@ -7,10 +7,10 @@ tags:
 
 
 ![[images/Ayo_Jabe.webp | 150]]
+## Generell
+Ayo ist ein [Wasser Genasi](https://forgotten-realms.fandom.com/de/wiki/Genasi) und die mehr oder weniger unfreiwillige Anführerin der Rivalen Gruppe.
 
-Ayo ist ein Wasser Genasi und die mehr oder weniger unfreiwillige Anführerin der Rivalen Gruppe.
-
-Sie scheint immer gut gelaunt zu sein und macht sich selten Gedanken über das was nach ihrer nächsten<br>Vorhaben kommt.
+Sie scheint immer gut gelaunt zu sein und macht sich selten Gedanken über das was nach ihrem nächsten<br>Vorhaben kommt.
 
 
 ## Herkunft

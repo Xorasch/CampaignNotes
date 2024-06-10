@@ -1,11 +1,9 @@
 ---
-title: Bazzoxan
+title: Xhorhas
 draft: false
 tags:
-  - Stadt
-  - Bazzoxan
+  - Region
   - Wildemount
-  - Xhorhas
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
